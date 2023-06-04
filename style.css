@@ -24,7 +24,7 @@ body {
   }
 
   body {
-    background-image: url("背景图.jpg");
+    background-image: url("image/背景图.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
